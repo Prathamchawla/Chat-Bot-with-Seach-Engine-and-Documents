@@ -7,6 +7,5 @@ langchain-huggingface
 langchain-text-splitters
 faiss-cpu
 transformers
-PyPDF2
-openai
-duckduckgo-search
+
+
