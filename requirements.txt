@@ -6,14 +6,6 @@ langchain-core
 langchain-community
 langchain-huggingface
 langchain-text-splitters
-langchain-agents
-langchain-tools
-langchain-utilities
-langchain-hub
-langchain-chains
-langchain-retrievers
-langchain-prompts
-langchain-embeddings
 faiss-cpu
 transformers
 PyPDF2
