@@ -6,7 +6,6 @@ langchain-core
 langchain-community
 langchain-huggingface
 langchain-text-splitters
-langchain-callbacks
 langchain-agents
 langchain-tools
 langchain-utilities
